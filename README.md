@@ -4,14 +4,14 @@ HealthAI Guardian is a next-generation healthcare application designed to levera
 
 ## Table of Contents
 
-⦁	Deployment
-⦁	About
-⦁	Key Features
-⦁	Tech Stack
-⦁	Getting Started
-⦁	Project Structure
-⦁	Contributing
-⦁	Contact
+* Deployment
+* About
+* Key Features
+* Tech Stack
+* Getting Started
+* Project Structure
+* Contributing
+* Contact
 
 ## Deployment
 
@@ -81,6 +81,7 @@ yarn dev
 
 ## Project Structure
 
+```text
 HealthAI-Guardian/
 ├── src/
 │   ├── components/      # Reusable UI components
