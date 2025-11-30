@@ -96,7 +96,8 @@ HealthAI-Guardian/
 ├── package.json         # Project dependencies and scripts
 ├── tailwind.config.ts   # Tailwind CSS configuration
 ├── tsconfig.json        # TypeScript configuration
-└── vite.config.ts       # Vite configuration ```
+└── vite.config.ts       # Vite configuration 
+```
 
 ## Contributing
 
