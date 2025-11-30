@@ -1,73 +1,116 @@
-# Welcome to your Lovable project
+**HealthAI Guardian**
 
-## Project info
+HealthAI Guardian is a next-generation healthcare application designed to leverage artificial intelligence for enhanced patient monitoring and health data management. This platform serves as a secure and intelligent bridge between personal health metrics and actionable medical insights.
 
-**URL**: https://lovable.dev/projects/4be76090-4dac-43cf-8ed4-58bc9a05525d
+**Table of Contents**
 
-## How can I edit this code?
+⦁	Deployment
+⦁	About
+⦁	Key Features
+⦁	Tech Stack
+⦁	Getting Started
+⦁	Project Structure
+⦁	Contributing
+⦁	Contact
 
-There are several ways of editing your application.
+**Deployment**
 
-**Use Lovable**
+Live Demo Link: https://healthai-guardian.netlify.app/auth
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/4be76090-4dac-43cf-8ed4-58bc9a05525d) and start prompting.
+**About**
 
-Changes made via Lovable will be committed automatically to this repo.
+HealthAI Guardian is built to address the growing need for accessible and intelligent health oversight. By integrating intuitive UI design with robust data processing, the application allows users to track vital statistics, receive AI-driven health insights, and manage medical records securely.
 
-**Use your preferred IDE**
+Whether for individual use or as a dashboard for healthcare providers, HealthAI Guardian prioritizes data integrity, user privacy, and ease of use.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+**Key Features**
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+⦁	Intelligent Dashboard: A comprehensive overview of health metrics with real-time data visualization.
+⦁	AI Health Analysis: Automated insights and pattern recognition for tracked vital signs.
+⦁	Secure Data Management: Privacy-first architecture ensuring sensitive health data is protected.
+⦁	Responsive Design: Fully optimized interface that works seamlessly across desktop, tablet, and mobile devices.
+⦁	Instant Alerts: Configurable notification system for critical health thresholds.
 
-Follow these steps:
+**Tech Stack**
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Frontend & Core:
+- React: For building a dynamic and responsive user interface.
+- TypeScript: Ensures type safety and code reliability.
+- Vite: Ultra-fast tooling for development and building.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Styling & UI:
+- Tailwind CSS: Utility-first CSS framework for rapid UI development.
+- Shadcn/UI: High-quality, accessible UI components.
+- Lucide React: Clean and consistent icon set.
 
-# Step 3: Install the necessary dependencies.
-npm i
+State & Data:
+- TanStack Query: Efficient server state management.
+- React Router: Seamless client-side routing.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+**Getting Started**
+
+Follow these steps to set up the project locally.
+
+Prerequisites
+
+Ensure you have the following installed on your machine:
+
+- [Node.js](https://nodejs.org/) (v16 or higher)
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+- [Git](https://git-scm.com/)
+
+Installation
+
+1.Clone the repository
+git clone (https://github.com/krrish-cypto/HealthAI-Guardian.git)
+
+2.Navigate to the project directory
+cd HealthAI-Guardian
+
+3.Install dependencies
+npm install
+# or
+yarn install
+
+4.Start the development server
 npm run dev
-```
+# or
+yarn dev
 
-**Edit a file directly in GitHub**
+5.Open your browser Navigate to http://localhost:8080 (or the port shown in your terminal) to view the application.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+**Project Structure**
 
-**Use GitHub Codespaces**
+HealthAI-Guardian/
+├── src/
+│   ├── components/      # Reusable UI components
+│   ├── pages/           # Application route pages
+│   ├── hooks/           # Custom React hooks
+│   ├── lib/             # Utility functions and configurations
+│   ├── assets/          # Images, icons, and static files
+│   ├── App.tsx          # Main application component
+│   └── main.tsx         # Entry point
+├── public/              # Public static assets
+├── index.html           # HTML template
+├── package.json         # Project dependencies and scripts
+├── tailwind.config.ts   # Tailwind CSS configuration
+├── tsconfig.json        # TypeScript configuration
+└── vite.config.ts       # Vite configuration
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+**Contributing**
 
-## What technologies are used for this project?
+Contributions are welcome! If you have suggestions for improvements or new features, please follow these steps:
 
-This project is built with:
+1.Fork the repository.
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+2.Create a new branch (git checkout -b feature/AmazingFeature).
 
-## How can I deploy this project?
+3.Commit your changes (git commit -m 'Add some AmazingFeature').
 
-Simply open [Lovable](https://lovable.dev/projects/4be76090-4dac-43cf-8ed4-58bc9a05525d) and click on Share -> Publish.
+4.Push to the branch (git push origin feature/AmazingFeature).
 
-## Can I connect a custom domain to my Lovable project?
+5.Open a Pull Request.
 
-Yes, you can!
+**Contact**
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Project Link: https://github.com/krrish-cypto/HealthAI-Guardian.git
