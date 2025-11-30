@@ -1,4 +1,4 @@
-**HealthAI Guardian**
+#**HealthAI Guardian**
 
 HealthAI Guardian is a next-generation healthcare application designed to leverage artificial intelligence for enhanced patient monitoring and health data management. This platform serves as a secure and intelligent bridge between personal health metrics and actionable medical insights.
 
@@ -69,12 +69,12 @@ cd HealthAI-Guardian
 
 3.Install dependencies
 npm install
-# or
+or
 yarn install
 
 4.Start the development server
 npm run dev
-# or
+or
 yarn dev
 
 5.Open your browser Navigate to http://localhost:8080 (or the port shown in your terminal) to view the application.
