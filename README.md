@@ -1,4 +1,4 @@
-#**HealthAI Guardian**
+#HealthAI Guardian
 
 HealthAI Guardian is a next-generation healthcare application designed to leverage artificial intelligence for enhanced patient monitoring and health data management. This platform serves as a secure and intelligent bridge between personal health metrics and actionable medical insights.
 
