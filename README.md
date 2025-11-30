@@ -15,7 +15,7 @@ HealthAI Guardian is a next-generation healthcare application designed to levera
 
 ## Deployment
 
-**Live Demo Link:** https://healthai-guardian.netlify.app/auth
+**Live Demo Link:** https://healthai-guardian.netlify.app
 
 ## About
 
