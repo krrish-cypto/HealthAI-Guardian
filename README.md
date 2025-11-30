@@ -2,7 +2,7 @@
 
 HealthAI Guardian is a next-generation healthcare application designed to leverage artificial intelligence for enhanced patient monitoring and health data management. This platform serves as a secure and intelligent bridge between personal health metrics and actionable medical insights.
 
-**Table of Contents**
+## Table of Contents
 
 ⦁	Deployment
 ⦁	About
@@ -13,17 +13,17 @@ HealthAI Guardian is a next-generation healthcare application designed to levera
 ⦁	Contributing
 ⦁	Contact
 
-**Deployment**
+## Deployment
 
-Live Demo Link: https://healthai-guardian.netlify.app/auth
+**Live Demo Link:** https://healthai-guardian.netlify.app/auth
 
-**About**
+## About
 
 HealthAI Guardian is built to address the growing need for accessible and intelligent health oversight. By integrating intuitive UI design with robust data processing, the application allows users to track vital statistics, receive AI-driven health insights, and manage medical records securely.
 
 Whether for individual use or as a dashboard for healthcare providers, HealthAI Guardian prioritizes data integrity, user privacy, and ease of use.
 
-**Key Features**
+## Key Features
 
 ⦁	Intelligent Dashboard: A comprehensive overview of health metrics with real-time data visualization.
 ⦁	AI Health Analysis: Automated insights and pattern recognition for tracked vital signs.
@@ -31,7 +31,7 @@ Whether for individual use or as a dashboard for healthcare providers, HealthAI 
 ⦁	Responsive Design: Fully optimized interface that works seamlessly across desktop, tablet, and mobile devices.
 ⦁	Instant Alerts: Configurable notification system for critical health thresholds.
 
-**Tech Stack**
+## Tech Stack
 
 Frontend & Core:
 - React: For building a dynamic and responsive user interface.
@@ -47,11 +47,11 @@ State & Data:
 - TanStack Query: Efficient server state management.
 - React Router: Seamless client-side routing.
 
-**Getting Started**
+## Getting Started
 
 Follow these steps to set up the project locally.
 
-Prerequisites
+### Prerequisites
 
 Ensure you have the following installed on your machine:
 
@@ -59,7 +59,7 @@ Ensure you have the following installed on your machine:
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 - [Git](https://git-scm.com/)
 
-Installation
+### Installation
 
 1.Clone the repository
 git clone (https://github.com/krrish-cypto/HealthAI-Guardian.git)
@@ -79,7 +79,7 @@ yarn dev
 
 5.Open your browser Navigate to http://localhost:8080 (or the port shown in your terminal) to view the application.
 
-**Project Structure**
+## Project Structure
 
 HealthAI-Guardian/
 ├── src/
@@ -97,7 +97,7 @@ HealthAI-Guardian/
 ├── tsconfig.json        # TypeScript configuration
 └── vite.config.ts       # Vite configuration
 
-**Contributing**
+## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or new features, please follow these steps:
 
@@ -111,6 +111,6 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 
 5.Open a Pull Request.
 
-**Contact**
+## Contact
 
-Project Link: https://github.com/krrish-cypto/HealthAI-Guardian.git
+**Project Link:** https://github.com/krrish-cypto/HealthAI-Guardian.git
